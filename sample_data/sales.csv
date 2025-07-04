@@ -1,0 +1,4 @@
+order_id,customer_id,product,amount,date
+1001,501,Keyboard,30.00,2025-07-01
+1002,502,Mouse,15.00,2025-07-02
+1003,503,Laptop,750.00,2025-07-03
